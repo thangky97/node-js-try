@@ -1,0 +1,15 @@
+{
+  "name": "node-try",
+  "version": "1.0.0",
+  "description": "demo create node.js project by Thang",
+  "main": "node test.js",
+  "scripts": {
+    "test": "node test.js",
+    "start": "node index.js"
+  },
+  "author": "thangtv",
+  "license": "ISC",
+  "dependencies": {
+    "mysql": "^2.15.0"
+  }
+}
