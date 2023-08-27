@@ -1,5 +1,5 @@
 {
-  "name": "node-try",
+  "name": "try",
   "version": "1.0.0",
   "description": "demo create node.js project by Thang",
   "main": "node test.js",
@@ -10,6 +10,16 @@
   "author": "thangtv",
   "license": "ISC",
   "dependencies": {
+    "mongodb": "^5.8.1",
     "mysql": "^2.15.0"
-  }
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thangky97/node-js-try.git"
+  },
+  "bugs": {
+    "url": "https://github.com/thangky97/node-js-try/issues"
+  },
+  "homepage": "https://github.com/thangky97/node-js-try#readme"
 }
